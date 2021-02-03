@@ -1,0 +1,12 @@
+Orbital Elements:
+i =  51.646800  (deg)
+RAAN =  0.981100  (deg)
+e =  0.000029
+a =  6796.904270
+Argument of Perigee (w) =  269.920600  (deg)
+Mean Anomaly (M) =  114.341300  (deg)
+Mean Motion (n) =  0.001127
+True Anomaly (v) =  1.995684  (deg)
+ 
+r_vec = [ 299.416031 -4210.540629 -5327.002459 ] (km)
+v_vec = [ 7.650054 0.289928 0.200815 ] (km/s)
