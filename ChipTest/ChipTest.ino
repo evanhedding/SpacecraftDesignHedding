@@ -58,7 +58,7 @@ void loop() {
   checkSN01();
   checkSI01();
   Serial.println();
-  delay(DELAY_TIME*2);
+  delay(1000);
 }
 
 void checkSI01() {
