@@ -20,7 +20,7 @@ xSW01 SW01;
 xSI01 SI01;
 xSL01 SL01;
 
-const int DELAY_TIME = 5000;
+const int DELAY_TIME = 10000;
 #define RED 12
 #define GREEN 13
 #define BLUE 5
